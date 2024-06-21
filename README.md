@@ -10,6 +10,7 @@ This library prints cron expression in easy user readable format to show when th
 4. Run `npm install -g .`. this will install cronparse command line utility.
 5. To run project run `cronparse <cronstring>"`
     for eg . `cronparse "*/15 0 1,15 * 1-5 /usr/bin/find"`
+To run tests run `npm test`
     
 ### Optionally you can directaly install hosted package on npm using following steps.
 1. Run `npm i -g cronparse`
