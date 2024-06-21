@@ -1,19 +1,3 @@
-#! /usr/bin/env node
-// const yargs = require("yargs");
-// const usage = "\nUsage: cronparse <cron-expression> to be parsed <path-to-script> script to run";
-// const options = yargs  
-//       .usage(usage)                                                                                                   
-//       .help(true)  
-//       .argv;
-
-// const args = yargs.argv._;
-// try{
-//     parse(args[0]);
-// }
-// catch(e){
-//     console.error(e.message)
-// }
-
 
 const minuteRange = {
     min: 0,
